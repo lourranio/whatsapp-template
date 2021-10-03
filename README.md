@@ -22,16 +22,19 @@ O numero 2 é sobre ter o status:
 ​
 Links das Imagens Gratuitas no https://unsplash.com/
 
-[Danrley Alves - Fotografia](https://unsplash.com/@danrley_alves)
+Danrley Alves
 [![Danrley Alves - Fotografia](https://images.unsplash.com/profile-1574325333630-4678f933288dimage?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff)](https://unsplash.com/@danrley_alves)
+https://unsplash.com/@danrley_alves
 
 ​
-[Michael Dam](https://unsplash.com/@michaeldam)
+Michael Dam
 [![Michael Dam](https://images.unsplash.com/profile-fb-1494602029-41c3d3172600.jpg?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff)](https://unsplash.com/@michaeldam)
+https://unsplash.com/@michaeldam
 
 ​
-[Tamara Bellis](https://unsplash.com/@tamarabellis)
+Tamara Bellis
 [![Tamara Bellis](https://images.unsplash.com/profile-1613425715540-4d5cf9f806f2image?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff)](https://unsplash.com/@tamarabellis)
+https://unsplash.com/@tamarabellis
 
 ​
 
