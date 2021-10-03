@@ -26,7 +26,9 @@ Links das Imagens Gratuitas no https://unsplash.com/
 
 ​
 [Michael Dam](https://unsplash.com/@michaeldam)
+
 ​
+[![Tamara Bellis](https://images.unsplash.com/profile-1613425715540-4d5cf9f806f2image?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff)](https://unsplash.com/@tamarabellis)
 [Tamara Bellis](https://unsplash.com/@tamarabellis)
 ​
 
