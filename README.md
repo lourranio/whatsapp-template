@@ -1,3 +1,3 @@
 # whatsapp template
  
-![alt](https://screen-1.png)
+![alt](screen/screen-1.png)
